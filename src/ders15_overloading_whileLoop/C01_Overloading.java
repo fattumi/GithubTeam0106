@@ -7,5 +7,10 @@ public class C01_Overloading {
         String str= "Java ogrendik, siradaki gelsin";
 
 
+        /*
+
+        Bir class'da ayni isimde ama farkli signature'a sahip methodlar olusturulmasina
+        method overloading denir.
+         */
     }
 }
