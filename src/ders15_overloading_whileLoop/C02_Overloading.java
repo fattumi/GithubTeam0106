@@ -20,4 +20,13 @@ public class C02_Overloading {
 
     }
 
+    public static void carpim(double sayi1, int sayi2){ // carpim double int
+
+        System.out.println("double - integer iki sayinin carpimi: " + sayi1*sayi2);
+    }
+    public static void carpim(int sayi1, double sayi2){
+
+        System.out.println("integer-double iki sayinin carpimi: "+sayi1*sayi2);
+    }
+
 }
